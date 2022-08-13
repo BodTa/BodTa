@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Taner Özdemir</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img float="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
-<p float="left"> <img src="https://komarev.com/ghpvc/?username=bodta&label=Profile%20views&color=0e75b6&style=flat" alt="bodta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bodta&label=Profile%20views&color=0e75b6&style=flat" alt="bodta" /> </p>
 
 - 🌱 I’m currently learning **React**
 
