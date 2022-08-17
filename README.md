@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bodta&label=Profile%20views&color=0e75b6&style=flat" alt="bodta" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & Onion Architecture**
 
 - 📫 How to reach me **tanerozd16@gmail.com**
 
