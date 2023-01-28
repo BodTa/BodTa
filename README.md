@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bodta&label=Profile%20views&color=0e75b6&style=flat" alt="bodta" /> </p>
 
-<p align="center"> - 🌱 I’m currently learning **React & Onion Architecture**</p>
+<p align="center"> - 🌱 I’m currently using **React.Ts, Tailwind.css & .Net**</p>
 
 <p align="center">- 📫 How to reach me **tanerozd16@gmail.com**</p>
 
